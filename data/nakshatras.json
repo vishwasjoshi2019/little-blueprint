@@ -1,0 +1,164 @@
+{
+  "nakshatras": [
+    {
+      "id": 1,
+      "name": "Ashwini",
+      "symbol": "Horse's Head",
+      "ruling_planet": "Ketu",
+      "element": "Earth/Fire",
+      "archetype": "The Swift Pioneer",
+      "sensory_profile": {
+        "energy_type": "High kinetic & gross-motor driven",
+        "sensory_triggers": ["Sedentary confinement", "Slow transitions", "Rigid repetitive routines"],
+        "soothing_mechanisms": ["Physical outdoor running", "Rhythmic movement", "Direct autonomy choices"]
+      },
+      "emotional_temperament": "Impulsive, fiercely independent, quick to anger and quick to forgive. Struggles with patience; feels emotions as physical bursts of energy.",
+      "learning_modality": "Kinesthetic / Experiential. Learns by touching, building, and trial-and-error rather than listening to passive lectures.",
+      "parenting_key": "Give them 2 quick physical choices rather than open-ended demands. Burn physical energy before requesting focused tasks."
+    },
+    {
+      "id": 2,
+      "name": "Bharani",
+      "symbol": "Yoni / Vessel",
+      "ruling_planet": "Venus",
+      "element": "Fire/Earth",
+      "archetype": "The Determined Creator",
+      "sensory_profile": {
+        "energy_type": "Intense, sensory-seeking, emotional depth",
+        "sensory_triggers": ["Being micromanaged", "Feeling dismissed or rushed", "Restrictive clothing"],
+        "soothing_mechanisms": ["Warm baths", "Creative clay/playdough modeling", "Firm weighted pressure or deep hugs"]
+      },
+      "emotional_temperament": "Passionate, stubborn, deeply loving. Takes things deeply to heart; will hold their ground during power struggles until they feel acknowledged.",
+      "learning_modality": "Tactile / Artistic. Absorbs complex ideas through creative expression, roleplay, and sensory crafts.",
+      "parenting_key": "Avoid direct 'because I said so' confrontations. Acknowledge their desire first ('I see how badly you want this') before setting the boundary."
+    },
+    {
+      "id": 3,
+      "name": "Krittika",
+      "symbol": "Razor / Flame",
+      "ruling_planet": "Sun",
+      "element": "Fire",
+      "archetype": "The Fiery Truth-Seeker",
+      "sensory_profile": {
+        "energy_type": "Sharp, intense, heat-sensitive",
+        "sensory_triggers": ["Overheating", "Injustice or perceived favoritism", "Hunger (intense 'hangry' episodes)"],
+        "soothing_mechanisms": ["Cooling sips of water", "Crisp fresh air", "Clear logical explanations"]
+      },
+      "emotional_temperament": "Protective, honest, blunt. Cannot tolerate perceived unfairness. Meltdowns resemble sudden bursts of lightning.",
+      "learning_modality": "Analytical / Structural. Loves understanding rules, dissecting toys, and identifying patterns.",
+      "parenting_key": "Never let their blood sugar dip low during transitions. Appeal to their innate sense of justice and fairness."
+    },
+    {
+      "id": 4,
+      "name": "Rohini",
+      "symbol": "Chariot / Ox Cart",
+      "ruling_planet": "Moon",
+      "element": "Earth",
+      "archetype": "The Sensual Blossom",
+      "sensory_profile": {
+        "energy_type": "Delicate, aesthetic, highly receptive to physical atmosphere",
+        "sensory_triggers": ["Scratchy tags on clothing", "Loud, harsh voices", "Sterile or chaotic environments"],
+        "soothing_mechanisms": ["Soft velvet/bamboo blankets", "Gentle acoustic lullabies", "Predictable bedtime routines"]
+      },
+      "emotional_temperament": "Tender, deeply affectionate, prone to clinginess when overwhelmed. Experiences sensory input with 2x intensity.",
+      "learning_modality": "Visual / Auditory. Highly influenced by beautiful picture books, musical cadence, and gentle storytelling.",
+      "parenting_key": "Cut tags off all clothes immediately. Create a tranquil, low-stimulus nursery or bedroom sanctuary."
+    },
+    {
+      "id": 5,
+      "name": "Mrigashira",
+      "symbol": "Deer's Head",
+      "ruling_planet": "Mars",
+      "element": "Air/Earth",
+      "archetype": "The Curious Wanderer",
+      "sensory_profile": {
+        "energy_type": "Alert, inquisitive, easily distracted by novelty",
+        "sensory_triggers": ["Boredom", "Monotonous tasks", "Sudden loud bangs"],
+        "soothing_mechanisms": ["Exploring nature trails", "Investigative scavenger hunts", "Calm rhythmic whispering"]
+      },
+      "emotional_temperament": "Gentle, inquisitive, perpetually restless. Constantly asking 'why?'; prone to anxiety if their curious questions are shut down.",
+      "learning_modality": "Inquiry-based / Conversational. Learns best when following their own curiosity rather than rigid curriculum.",
+      "parenting_key": "Answer their questions with curiosity: 'What do you think happens?' Keep their hands busy with puzzles and nature discovery."
+    },
+    {
+      "id": 6,
+      "name": "Ardra",
+      "symbol": "Teardrop",
+      "ruling_planet": "Rahu",
+      "element": "Water/Air",
+      "archetype": "The Storm Transformer",
+      "sensory_profile": {
+        "energy_type": "Electric, volatile, emotionally deep",
+        "sensory_triggers": ["Chaotic crowds", "Suppressed feelings", "Feeling misunderstood"],
+        "soothing_mechanisms": ["Water play (baths, pools, washing hands)", "Crying without interruption in a parent's arms", "Dimmed lights"]
+      },
+      "emotional_temperament": "Undergoes intense cathartic releases. Tantrums are not defiance; they are neurological system resets. Deeply brilliant and intuitive.",
+      "learning_modality": "Problem-solving / Deconstruction. Fascinated by storms, how machines work, and complex emotional stories.",
+      "parenting_key": "Do not try to teach or talk during their crying storm. Be their emotional anchor, stay physically close, and debrief only after the storm passes."
+    },
+    {
+      "id": 7,
+      "name": "Punarvasu",
+      "symbol": "Bow & Quiver",
+      "ruling_planet": "Jupiter",
+      "element": "Air/Water",
+      "archetype": "The Resilient Restorer",
+      "sensory_profile": {
+        "energy_type": "Bouncy, optimistic, renewable vitality",
+        "sensory_triggers": ["Being confined indoors too long", "Pessimism", "Severe punishment"],
+        "soothing_mechanisms": ["Returning to comfortable home spaces", "Storybooks with hopeful endings", "Open green spaces"]
+      },
+      "emotional_temperament": "Forgiving, cheerful, naturally bounces back from setbacks. Needs a secure emotional home base to return to after exploring.",
+      "learning_modality": "Holistic / Philosophical. Loves big-picture concepts, animals, and moral fables.",
+      "parenting_key": "Praise their resilience and effort rather than perfection. Provide a cozy 'reset corner' in their room."
+    },
+    {
+      "id": 8,
+      "name": "Pushya",
+      "symbol": "Cow's Udder / Lotus",
+      "ruling_planet": "Saturn",
+      "element": "Water",
+      "archetype": "The Gentle Sage",
+      "sensory_profile": {
+        "energy_type": "Grounding, nourishing, deeply empathic",
+        "sensory_triggers": ["Parental tension/arguing in the room", "Emotional coldness", "Chaotic schedules"],
+        "soothing_mechanisms": ["Warm nourishing soups/porridges", "Prolonged skin-to-skin or snuggling", "Consistent family rituals"]
+      },
+      "emotional_temperament": "Naturally compliant, deeply compassionate, highly attuned to their mother's emotional state. May suppress their own needs to keep parents happy.",
+      "learning_modality": "Structured / Observational. Thrives in predictable, calm classroom settings with warm teachers.",
+      "parenting_key": "Check in on their feelings regularly: 'It is okay to be angry, you don't always have to be the good kid.' Protect your own emotional peace around them."
+    },
+    {
+      "id": 9,
+      "name": "Ashlesha",
+      "symbol": "Coiled Serpent",
+      "ruling_planet": "Mercury",
+      "element": "Water",
+      "archetype": "The Mystical Intuitive",
+      "sensory_profile": {
+        "energy_type": "Penetrating, watchful, boundary-conscious",
+        "sensory_triggers": ["Forced physical affection with strangers", "Inauthenticity or lying", "Intrusive eye contact when overwhelmed"],
+        "soothing_mechanisms": ["Solitary quiet time", "Small enclosed cozy nooks (tents, fortresses)", "Deep pressure sensory sacks"]
+      },
+      "emotional_temperament": "Hyper-observant, intense, fiercely protective of their boundaries. Can smell fear or insincerity instantly.",
+      "learning_modality": "Independent / Investigative. Highly psychological, intuitive, and strategic.",
+      "parenting_key": "Never force them to hug relatives if they say no. Respect their private space and earn their deep trust through radical honesty."
+    },
+    {
+      "id": 10,
+      "name": "Magha",
+      "symbol": "Royal Throne",
+      "ruling_planet": "Ketu",
+      "element": "Fire",
+      "archetype": "The Noble Leader",
+      "sensory_profile": {
+        "energy_type": "Dignified, commanding, pride-sensitive",
+        "sensory_triggers": ["Public humiliation or teasing", "Feeling talked down to", "Baby talk"],
+        "soothing_mechanisms": ["Being given meaningful responsibilities", "Dressing up nicely", "Quiet respectful validation"]
+      },
+      "emotional_temperament": "Proud, generous, natural leader on playgrounds. Deeply connected to ancestors and family lineage. Crushed by public reprimands.",
+      "learning_modality": "Leadership / Mentorship. Learns best when teaching younger siblings or peers.",
+      "parenting_key": "Never scold or correct them in front of friends or family. Pull them aside in private and speak to their inner dignity."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "parent_child_scripts": [
+    {
+      "dynamic_type": "Fire Parent (Fast/Action) + Earth Child (Slow/Grounded)",
+      "trigger_point": "Rushing during morning departures, putting on shoes, cleaning up toys.",
+      "why_it_happens": "The parent measures time in quick action steps. To the Earth child, sudden haste feels like an earthquake threatening their physical equilibrium, causing an immediate stubborn freeze.",
+      "word_for_word_script": {
+        "step_1_pause": "Stop barking instructions from across the room. Walk over and drop down to their eye level.",
+        "step_2_script": "'I notice my body is rushing and my voice is fast. That feels scary. I am going to slow down. We have 5 minutes. Would you like to put on the left shoe first, or the right shoe?'",
+        "step_3_physical_anchor": "Place a firm, gentle hand on their shoulder to physically ground them."
+      }
+    },
+    {
+      "dynamic_type": "Air Parent (Logic/Debate) + Water Child (Deep Emotion/Tears)",
+      "trigger_point": "Meltdowns over seemingly irrational triggers (broken cookie, wrong cup color).",
+      "why_it_happens": "The Air parent tries to use logic ('It is the exact same cookie, just eat it!'). The Water child feels dismissed and unloved, escalating the crying storm into a full nervous system panic.",
+      "word_for_word_script": {
+        "step_1_pause": "Completely drop logic. Do not explain the situation.",
+        "step_2_script": "'You really wanted the blue cup. It is so hard when things do not happen the way our body expected. You can be sad. I am right here.'",
+        "step_3_physical_anchor": "Open your arms without demanding a hug. Let them cry until their breathing naturally resets."
+      }
+    },
+    {
+      "dynamic_type": "Earth Parent (Order/Routine) + Fire Child (Impulsive/Explosive)",
+      "trigger_point": "Sudden outbursts, defying rules, running away in public spaces.",
+      "why_it_happens": "The Earth parent values calm compliance and predictable schedules. The Fire child feels physically caged by long sitting periods and expresses frustration through loud defiance.",
+      "word_for_word_script": {
+        "step_1_pause": "Do not threaten punishment or lecture while their adrenaline is high.",
+        "step_2_script": "'I see so much fire in your body right now. It is okay to be furious; it is not okay to throw blocks. Let's stomp our feet together or push this wall with all our strength.'",
+        "step_3_physical_anchor": "Channel their physical adrenaline into heavy work (wall push-ups, stomping)."
+      }
+    }
+  ]
+}

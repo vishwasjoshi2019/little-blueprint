@@ -1,0 +1,40 @@
+{
+  "learning_modalities": [
+    {
+      "element": "Fire",
+      "ruling_signs": ["Aries", "Leo", "Sagittarius"],
+      "learning_style": "Active Kinesthetic & Leadership",
+      "attention_span": "Burst-oriented: High intensity followed by need for physical release",
+      "ideal_environment": "Montessori, active sports programs, competitive games, hands-on science experiments",
+      "extracurricular_recommendations": ["Martial Arts / Gymnastics", "Debate & Public Speaking", "Robotics competitions"],
+      "parent_coaching_tip": "Do not expect them to sit still for 45 minutes of homework. Break study sessions into 15-minute high-energy sprints with jumping jacks in between."
+    },
+    {
+      "element": "Earth",
+      "ruling_signs": ["Taurus", "Virgo", "Capricorn"],
+      "learning_style": "Tactile, Methodical & Step-by-Step",
+      "attention_span": "Sustained & Focused: Excels at methodical, repetitive mastery",
+      "ideal_environment": "Structured classical schooling, nature-based Waldorf schools, calm sensory classrooms",
+      "extracurricular_recommendations": ["Woodworking / Pottery", "Piano / Classical Instrument", "Botany / Gardening / Animal care"],
+      "parent_coaching_tip": "Give them clear step-by-step checklists. Rushing them causes deep anxiety and stubborn refusal."
+    },
+    {
+      "element": "Air",
+      "ruling_signs": ["Gemini", "Libra", "Aquarius"],
+      "learning_style": "Verbal, Conceptual & Conversational",
+      "attention_span": "Rapid & Multi-track: Synthesizes multiple ideas simultaneously, easily bored by rote memorization",
+      "ideal_environment": "Inquiry-based learning, bilingual immersion, creative technology labs",
+      "extracurricular_recommendations": ["Creative Writing & Podcasting", "Coding & Game Design", "Chess / Strategy games"],
+      "parent_coaching_tip": "They need to talk to understand. Allow them to explain their thoughts out loud rather than forcing silent studying."
+    },
+    {
+      "element": "Water",
+      "ruling_signs": ["Cancer", "Scorpio", "Pisces"],
+      "learning_style": "Intuitive, Empathetic & Story-Driven",
+      "attention_span": "Atmospheric: Focus depends directly on their emotional comfort with the teacher and peers",
+      "ideal_environment": "Waldorf, gentle arts-integrated schooling, small nurturing classroom pods",
+      "extracurricular_recommendations": ["Swimming / Water sports", "Visual Arts & Watercolor", "Theater & Drama therapy"],
+      "parent_coaching_tip": "If they have a clash with a harsh teacher, their grades will drop across all subjects. Focus on emotional safety before academic performance."
+    }
+  ]
+}
