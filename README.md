@@ -5,13 +5,14 @@
 ---
 
 ## 📖 Overview
-**LITTLE BLUEPRINT** translates high-precision astronomical calculations (Sidereal Moon Nakshatras, 5th House, and Divisional Charts) into modern, actionable child developmental psychology for affluent parents in Tier-1 markets (US, UK, Canada, Australia, and Germany).
+**LITTLE BLUEPRINT** is a parent-only product (ages 0–8, hero 1–5) that translates sidereal natal math into a child’s sensory, emotional, and learning profile — plus word-for-word clash scripts. It is not adult life-astrology and not a medical tool.
 
-It solves the primary parental pain points:
-1. **Sensory Overload & Meltdowns:** Knowing how your child self-soothes based on their Moon Nakshatra.
-2. **Parent-Child Clashes:** Real-time word-for-word gentle parenting scripts when parental cognitive speed clashes with child temperament.
-3. **Inborn Learning Modalities:** Pinpointing whether the child learns best via tactile, visual, STEM-analytical, or artistic modalities.
-4. **Physical Keepsakes:** Automated 42-page custom linen-bound hardcover book for baby showers and 1st birthdays.
+Primary pain points:
+1. **Sensory overload & meltdowns** — how this child self-soothes
+2. **Parent–child clashes** — why you trigger each other, and the exact script
+3. **Inborn learning modality** — tactile, visual, STEM-analytical, or artistic
+
+V1 scope, non-goals, and screens: [LITTLE_BLUEPRINT_PRD.md](LITTLE_BLUEPRINT_PRD.md). Keepsake book, Doula AI, and registry gifting are later phases.
 
 ---
 
@@ -65,5 +66,5 @@ Then visit `http://127.0.0.1:8000/docs` to test the interactive Swagger document
 ---
 
 ## 📄 Key Documentation
-* [LITTLE BLUEPRINT Master PRD](LITTLE_BLUEPRINT_PRD.md)
+* [LITTLE BLUEPRINT V1 PRD (source of truth)](LITTLE_BLUEPRINT_PRD.md)
 * [Master Venture Ideas Pipeline](../MASTER_IDEAS_PIPELINE.md)
